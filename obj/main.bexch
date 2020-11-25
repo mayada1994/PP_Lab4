@@ -1,0 +1,23 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+C:\Users\Demonera\Documents\Ada\Lab4\lab4.gpr
+20201125203810 1896b997bf4e0059127d7f54115737c1
+[BOUND OBJECT FILES]
+C:\Users\Demonera\Documents\Ada\Lab4\obj\calculate_sum.o
+C:\Users\Demonera\Documents\Ada\Lab4\obj\main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-LC:\Users\Demonera\Documents\Ada\Lab4\obj\
+-LC:\Users\Demonera\Documents\Ada\Lab4\obj\
+-LC:/gnat/2020/lib/gcc/x86_64-pc-mingw32/9.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2020/lib/gcc/x86_64-pc-mingw32/9.3.1/adalib/libgnarl.a
+C:/gnat/2020/lib/gcc/x86_64-pc-mingw32/9.3.1/adalib/libgnat.a
+-Xlinker
+--stack=0x200000,0x1000
+-mthreads

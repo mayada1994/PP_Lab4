@@ -1,0 +1,281 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project >
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\bin\lab4.gpr</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\Demonera\Documents\Ada\Lab4\lab4.gpr</vfs_project>
+      <vfs_file>C:\Users\Demonera\Documents\Ada\Lab4\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\Demonera\Documents\Ada\Lab4\lab4.gpr</vfs_project>
+      <vfs_file>C:\Users\Demonera\Documents\Ada\Lab4\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\Demonera\Documents\Ada\Lab4\lab4.gpr</vfs_project>
+      <vfs_file>C:\Users\Demonera\Documents\Ada\Lab4\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 70" >
+      <vfs_project>C:\Users\Demonera\Documents\Ada\Lab4\lab4.gpr</vfs_project>
+      <vfs_file>C:\Users\Demonera\Documents\Ada\Lab4\src\calculate_sum.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\Demonera\Documents\Ada\Lab4\lab4.gpr</vfs_project>
+      <vfs_file>C:\Users\Demonera\Documents\Ada\Lab4\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\Demonera\Documents\Ada\Lab4\lab4.gpr</vfs_project>
+      <vfs_file>C:\Users\Demonera\Documents\Ada\Lab4\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\Demonera\Documents\Ada\Lab4\lab4.gpr</vfs_project>
+      <vfs_file>C:\Users\Demonera\Documents\Ada\Lab4\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\Demonera\Documents\Ada\Lab4\lab4.gpr</vfs_project>
+      <vfs_file>C:\Users\Demonera\Documents\Ada\Lab4\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\Demonera\Documents\Ada\Lab4\lab4.gpr</vfs_project>
+      <vfs_file>C:\Users\Demonera\Documents\Ada\Lab4\src\calculate_sum.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 28" line=" 18" >
+      <vfs_project>C:\Users\Demonera\Documents\Ada\Lab4\lab4.gpr</vfs_project>
+      <vfs_file>C:\Users\Demonera\Documents\Ada\Lab4\src\calculate_sum.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 19" >
+      <vfs_project>C:\Users\Demonera\Documents\Ada\Lab4\lab4.gpr</vfs_project>
+      <vfs_file>C:\Users\Demonera\Documents\Ada\Lab4\src\calculate_sum.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\Demonera\Documents\Ada\Lab4\lab4.gpr</vfs_project>
+      <vfs_file>C:\Users\Demonera\Documents\Ada\Lab4\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\Demonera\Documents\Ada\Lab4\lab4.gpr</vfs_project>
+      <vfs_file>C:\Users\Demonera\Documents\Ada\Lab4\src\calculate_sum.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\Demonera\Documents\Ada\Lab4\lab4.gpr</vfs_project>
+      <vfs_file>C:\Users\Demonera\Documents\Ada\Lab4\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\Demonera\Documents\Ada\Lab4\lab4.gpr</vfs_project>
+      <vfs_file>C:\Users\Demonera\Documents\Ada\Lab4\src\calculate_sum.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\Demonera\Documents\Ada\Lab4\lab4.gpr</vfs_project>
+      <vfs_file>C:\Users\Demonera\Documents\Ada\Lab4\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\Demonera\Documents\Ada\Lab4\lab4.gpr</vfs_project>
+      <vfs_file>C:\Users\Demonera\Documents\Ada\Lab4\src\calculate_sum.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\Demonera\Documents\Ada\Lab4\lab4.gpr</vfs_project>
+      <vfs_file>C:\Users\Demonera\Documents\Ada\Lab4\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\Demonera\Documents\Ada\Lab4\lab4.gpr</vfs_project>
+      <vfs_file>C:\Users\Demonera\Documents\Ada\Lab4\src\calculate_sum.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\Demonera\Documents\Ada\Lab4\lab4.gpr</vfs_project>
+      <vfs_file>C:\Users\Demonera\Documents\Ada\Lab4\src\calculate_sum.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\Demonera\Documents\Ada\Lab4\lab4.gpr</vfs_project>
+      <vfs_file>C:\Users\Demonera\Documents\Ada\Lab4\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 44" line=" 6" >
+      <vfs_project>C:\Users\Demonera\Documents\Ada\Lab4\lab4.gpr</vfs_project>
+      <vfs_file>C:\Users\Demonera\Documents\Ada\Lab4\src\calculate_sum.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 29" line=" 2" >
+      <vfs_project>C:\Users\Demonera\Documents\Ada\Lab4\lab4.gpr</vfs_project>
+      <vfs_file>C:\Users\Demonera\Documents\Ada\Lab4\src\calculate_sum.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\Demonera\Documents\Ada\Lab4\lab4.gpr</vfs_project>
+      <vfs_file>C:\Users\Demonera\Documents\Ada\Lab4\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\Demonera\Documents\Ada\Lab4\lab4.gpr</vfs_project>
+      <vfs_file>C:\Users\Demonera\Documents\Ada\Lab4\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\Demonera\Documents\Ada\Lab4\lab4.gpr</vfs_project>
+      <vfs_file>C:\Users\Demonera\Documents\Ada\Lab4\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\Demonera\Documents\Ada\Lab4\lab4.gpr</vfs_project>
+      <vfs_file>C:\Users\Demonera\Documents\Ada\Lab4\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\Demonera\Documents\Ada\Lab4\lab4.gpr</vfs_project>
+      <vfs_file>C:\Users\Demonera\Documents\Ada\Lab4\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\Demonera\Documents\Ada\Lab4\lab4.gpr</vfs_project>
+      <vfs_file>C:\Users\Demonera\Documents\Ada\Lab4\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\Demonera\Documents\Ada\Lab4\lab4.gpr</vfs_project>
+      <vfs_file>C:\Users\Demonera\Documents\Ada\Lab4\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 31" line=" 2" >
+      <vfs_project>C:\Users\Demonera\Documents\Ada\Lab4\lab4.gpr</vfs_project>
+      <vfs_file>C:\Users\Demonera\Documents\Ada\Lab4\src\calculate_sum.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\Demonera\Documents\Ada\Lab4\lab4.gpr</vfs_project>
+      <vfs_file>C:\Users\Demonera\Documents\Ada\Lab4\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 31" line=" 2" >
+      <vfs_project>C:\Users\Demonera\Documents\Ada\Lab4\lab4.gpr</vfs_project>
+      <vfs_file>C:\Users\Demonera\Documents\Ada\Lab4\src\calculate_sum.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 28" line=" 10" >
+      <vfs_project>C:\Users\Demonera\Documents\Ada\Lab4\lab4.gpr</vfs_project>
+      <vfs_file>C:\Users\Demonera\Documents\Ada\Lab4\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 8" >
+      <vfs_project>C:\Users\Demonera\Documents\Ada\Lab4\lab4.gpr</vfs_project>
+      <vfs_file>C:\Users\Demonera\Documents\Ada\Lab4\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 63" line=" 2" >
+      <vfs_project>C:\Users\Demonera\Documents\Ada\Lab4\lab4.gpr</vfs_project>
+      <vfs_file>C:\Users\Demonera\Documents\Ada\Lab4\src\calculate_sum.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 25" >
+      <vfs_project>C:\Users\Demonera\Documents\Ada\Lab4\lab4.gpr</vfs_project>
+      <vfs_file>C:\Users\Demonera\Documents\Ada\Lab4\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 8" >
+      <vfs_project>C:\Users\Demonera\Documents\Ada\Lab4\lab4.gpr</vfs_project>
+      <vfs_file>C:\Users\Demonera\Documents\Ada\Lab4\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 25" >
+      <vfs_project>C:\Users\Demonera\Documents\Ada\Lab4\lab4.gpr</vfs_project>
+      <vfs_file>C:\Users\Demonera\Documents\Ada\Lab4\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 8" >
+      <vfs_project>C:\Users\Demonera\Documents\Ada\Lab4\lab4.gpr</vfs_project>
+      <vfs_file>C:\Users\Demonera\Documents\Ada\Lab4\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 4" >
+      <vfs_project>C:\Users\Demonera\Documents\Ada\Lab4\lab4.gpr</vfs_project>
+      <vfs_file>C:\Users\Demonera\Documents\Ada\Lab4\src\calculate_sum.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 25" line=" 16" >
+      <vfs_project>C:\Users\Demonera\Documents\Ada\Lab4\lab4.gpr</vfs_project>
+      <vfs_file>C:\Users\Demonera\Documents\Ada\Lab4\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 8" >
+      <vfs_project>C:\Users\Demonera\Documents\Ada\Lab4\lab4.gpr</vfs_project>
+      <vfs_file>C:\Users\Demonera\Documents\Ada\Lab4\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 8" >
+      <vfs_project>C:\Users\Demonera\Documents\Ada\Lab4\lab4.gpr</vfs_project>
+      <vfs_file>C:\Users\Demonera\Documents\Ada\Lab4\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 25" >
+      <vfs_project>C:\Users\Demonera\Documents\Ada\Lab4\lab4.gpr</vfs_project>
+      <vfs_file>C:\Users\Demonera\Documents\Ada\Lab4\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 33" line=" 15" >
+      <vfs_project>C:\Users\Demonera\Documents\Ada\Lab4\lab4.gpr</vfs_project>
+      <vfs_file>C:\Users\Demonera\Documents\Ada\Lab4\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 8" >
+      <vfs_project>C:\Users\Demonera\Documents\Ada\Lab4\lab4.gpr</vfs_project>
+      <vfs_file>C:\Users\Demonera\Documents\Ada\Lab4\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 8" >
+      <vfs_project>C:\Users\Demonera\Documents\Ada\Lab4\lab4.gpr</vfs_project>
+      <vfs_file>C:\Users\Demonera\Documents\Ada\Lab4\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 25" >
+      <vfs_project>C:\Users\Demonera\Documents\Ada\Lab4\lab4.gpr</vfs_project>
+      <vfs_file>C:\Users\Demonera\Documents\Ada\Lab4\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 10" line=" 5" >
+      <vfs_project>C:\Users\Demonera\Documents\Ada\Lab4\lab4.gpr</vfs_project>
+      <vfs_file>C:\Users\Demonera\Documents\Ada\Lab4\src\calculate_sum.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 4" >
+      <vfs_project>C:\Users\Demonera\Documents\Ada\Lab4\lab4.gpr</vfs_project>
+      <vfs_file>C:\Users\Demonera\Documents\Ada\Lab4\src\calculate_sum.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 12" line=" 5" >
+      <vfs_project>C:\Users\Demonera\Documents\Ada\Lab4\lab4.gpr</vfs_project>
+      <vfs_file>C:\Users\Demonera\Documents\Ada\Lab4\src\calculate_sum.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 23" line=" 39" >
+      <vfs_project>C:\Users\Demonera\Documents\Ada\Lab4\lab4.gpr</vfs_project>
+      <vfs_file>C:\Users\Demonera\Documents\Ada\Lab4\src\calculate_sum.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 37" line=" 45" >
+      <vfs_project>C:\Users\Demonera\Documents\Ada\Lab4\lab4.gpr</vfs_project>
+      <vfs_file>C:\Users\Demonera\Documents\Ada\Lab4\src\calculate_sum.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 24" line=" 49" >
+      <vfs_project>C:\Users\Demonera\Documents\Ada\Lab4\lab4.gpr</vfs_project>
+      <vfs_file>C:\Users\Demonera\Documents\Ada\Lab4\src\calculate_sum.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 25" >
+      <vfs_project>C:\Users\Demonera\Documents\Ada\Lab4\lab4.gpr</vfs_project>
+      <vfs_file>C:\Users\Demonera\Documents\Ada\Lab4\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 56" line=" 8" >
+      <vfs_project>C:\Users\Demonera\Documents\Ada\Lab4\lab4.gpr</vfs_project>
+      <vfs_file>C:\Users\Demonera\Documents\Ada\Lab4\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 4" >
+      <vfs_project>C:\Users\Demonera\Documents\Ada\Lab4\lab4.gpr</vfs_project>
+      <vfs_file>C:\Users\Demonera\Documents\Ada\Lab4\src\calculate_sum.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 29" line=" 17" >
+      <vfs_project>C:\Users\Demonera\Documents\Ada\Lab4\lab4.gpr</vfs_project>
+      <vfs_file>C:\Users\Demonera\Documents\Ada\Lab4\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 43" line=" 8" >
+      <vfs_project>C:\Users\Demonera\Documents\Ada\Lab4\lab4.gpr</vfs_project>
+      <vfs_file>C:\Users\Demonera\Documents\Ada\Lab4\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 26" >
+      <vfs_project>C:\Users\Demonera\Documents\Ada\Lab4\lab4.gpr</vfs_project>
+      <vfs_file>C:\Users\Demonera\Documents\Ada\Lab4\src\calculate_sum.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 9" >
+      <vfs_project>C:\Users\Demonera\Documents\Ada\Lab4\lab4.gpr</vfs_project>
+      <vfs_file>C:\Users\Demonera\Documents\Ada\Lab4\src\calculate_sum.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 11" line=" 62" >
+      <vfs_project>C:\Users\Demonera\Documents\Ada\Lab4\lab4.gpr</vfs_project>
+      <vfs_file>C:\Users\Demonera\Documents\Ada\Lab4\src\calculate_sum.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 47" >
+      <vfs_project>C:\Users\Demonera\Documents\Ada\Lab4\lab4.gpr</vfs_project>
+      <vfs_file>C:\Users\Demonera\Documents\Ada\Lab4\src\calculate_sum.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 56" >
+      <vfs_project>C:\Users\Demonera\Documents\Ada\Lab4\lab4.gpr</vfs_project>
+      <vfs_file>C:\Users\Demonera\Documents\Ada\Lab4\src\calculate_sum.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>

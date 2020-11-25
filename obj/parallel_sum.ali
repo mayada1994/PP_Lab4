@@ -1,0 +1,54 @@
+V "GNAT Lib v2020"
+A -gnatA
+A -mtune=generic
+A -march=x86-64
+P ZX
+
+RN
+RV NO_TASKING
+RV NO_DYNAMIC_SIZED_OBJECTS
+RV NO_IMPLEMENTATION_PRAGMAS
+RV MAX_TASK_ENTRIES=2
+
+U parallel_sum%b	parallel_sum.adb	4de93ef1 NE OO SU GE
+
+U parallel_sum%s	parallel_sum.ads	20c153f1 BN EE NE OO GE
+
+D parallel_sum.ads	20201125220124 20c153f1 parallel_sum%s
+D parallel_sum.adb	20201125220104 6d286d00 parallel_sum%b
+D system.ads		20200228061810 32a08138 system%s
+G a e
+G c Z s b [parallel_sum standard 5 10 none]
+X 1 parallel_sum.ads
+2I9 Number 3r53 7r33 2|3r33 5r60 12r32 18r13 29r33 36r60 37r13 52r13 53r13
+3A9 Vector_Type(2I9)<integer> 6r16 2|2r16
+5v10*Parallel_Sum 6>4 7>4 2|1b10 74l5 74t17
+6*4 Vector{3A9} 2|2b4 40r23 46r38 50r25 65r31
+7i4 Tasks{positive} 2|3b4 46r54 47r24
+X 2 parallel_sum.adb
+5V13 Partial_Sum{1|2I9} 5>26 5>33 27s14 36b13 44l8 44t19 65s11
+5i26 First{positive} 36b26 39r16
+5i33 Last{positive} 36b33 39r25
+8T14 Calculator 14e7 16b14 21m10 22m10 34l8 34t18 47r38
+9Y13 Start 9>20 9>27 20b14 24l11 24t16 60s17
+9i20 First{positive} 21r30 60r24
+9i27 Last{positive} 22r30 60r40
+12Y13 Stop 12<19 29b14 33l11 33t15 69s17
+12*19 Result{1|2I9} 32m10
+17i7 First{positive} 21m21 27r27
+17i14 Last{positive} 22m21 27r34
+18*7 Sum{1|2I9} 27m7 32r20
+20i21 First{positive}
+20i28 Last{positive}
+29*20 Result{1|2I9}
+37*7 Sum{1|2I9} 40m10 40r17 43r14
+39i11 J{integer} 40r31
+46i4 Sub_Length{positive} 59r23
+47a4 Calcs(8T14) 58r13 60r7 68r13 69r7
+50i4 Index{positive} 59r15 60r33 61m7 65r24
+51i4 Next{positive} 59m7 60r48 61r16
+52*4 Sum{1|2I9} 65m4 70m7 70r14 73r11
+53*4 Subsum{1|2I9} 69m23 70r20
+58i8 J{integer} 60r14
+68i8 J{integer} 69r14
+

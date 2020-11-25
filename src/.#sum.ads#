@@ -1,0 +1,7 @@
+generic
+   type Number is range <>;
+   type Vector_Type is Array (Positive range <>) of Number;
+
+function Sum
+  (Vector : in Vector_Type;
+   Tasks  : in Positive) return Number;
